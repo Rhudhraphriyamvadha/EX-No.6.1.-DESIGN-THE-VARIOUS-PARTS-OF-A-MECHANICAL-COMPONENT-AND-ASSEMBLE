@@ -67,6 +67,7 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![pro 6 1 l1](https://github.com/user-attachments/assets/15c9660c-927b-4310-a668-271af64f71fd)
 ![pro 6 1 l2](https://github.com/user-attachments/assets/61285f6f-8a53-4882-9019-b0380431e954)
 ![pro 6 1 l3](https://github.com/user-attachments/assets/da52b33d-d6e9-4b15-83a8-cea74851c462)
+![pro 6 1 l4](https://github.com/user-attachments/assets/f87eaf21-2209-4a75-85b4-54a9a907e77a)
 ![pro 6 1 new](https://github.com/user-attachments/assets/cc7ed5c4-be89-409b-91ad-95d90fbc0665)
 
 
